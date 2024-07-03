@@ -1,6 +1,6 @@
-[submodule "Algoritmos-y-Estructura-de-Datos-I"]
-	path = Algoritmos-y-Estructura-de-Datos-I
+[submodule "Algoritmos-y-Estructuras-de-Datos-I"]
+	path = Algoritmos-y-Estructuras-de-Datos-I
 	url = https://github.com/narvaez-juan/famaf-cs-ayed1.git
-[submodule "Algoritmos-y-Estructura-de-Datos-II"]
-	path = Algoritmos-y-Estructura-de-Datos-II
+[submodule "Algoritmos-y-Estructuras-de-Datos-II"]
+	path = Algoritmos-y-Estructuras-de-Datos-II
 	url = https://github.com/narvaez-juan/famaf-cs-ayed2.git

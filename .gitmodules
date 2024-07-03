@@ -1,0 +1,6 @@
+[submodule "famaf-cs-ayed1"]
+	path = famaf-cs-ayed1
+	url = https://github.com/narvaez-juan/famaf-cs-ayed1.git
+[submodule "famaf-cs-ayed2"]
+	path = famaf-cs-ayed2
+	url = https://github.com/narvaez-juan/famaf-cs-ayed2.git

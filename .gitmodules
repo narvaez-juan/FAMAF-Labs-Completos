@@ -1,0 +1,12 @@
+[submodule "Algoritmos-y-Estructuras-de-Datos-I"]
+	path = Algoritmos-y-Estructuras-de-Datos-I
+	url = https://github.com/narvaez-juan/famaf-cs-ayed1.git
+[submodule "Algoritmos-y-Estructuras-de-Datos-II"]
+	path = Algoritmos-y-Estructuras-de-Datos-II
+	url = https://github.com/narvaez-juan/famaf-cs-ayed2.git
+[submodule "Organizacion-del-Computador"]
+	path = Organizacion-del-Computador
+	url = https://github.com/narvaez-juan/famaf-cs-org_comp.git
+[submodule "Sistemas-Operativos"]
+	path = Sistemas-Operativos
+	url = https://github.com/narvaez-juan/famaf-cs-sistop.git

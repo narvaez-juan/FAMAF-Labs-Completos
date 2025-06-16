@@ -10,3 +10,9 @@
 [submodule "Sistemas-Operativos"]
 	path = Sistemas-Operativos
 	url = https://github.com/narvaez-juan/famaf-cs-sistop.git
+[submodule "Paradigmas-de-Programacion"]
+	path = Paradigmas-de-Programacion
+	url = https://github.com/narvaez-juan/famaf-cs-pdp
+[submodule "Redes-y-Sistemas-Distribuidos"]
+	path = Redes-y-Sistemas-Distribuidos
+	url = https://github.com/narvaez-juan/famaf-cs-rysd
